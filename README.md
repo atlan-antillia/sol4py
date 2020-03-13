@@ -64,9 +64,9 @@ pip install numpy==1.16.0<br>
 We have downloaded <a href="https://github.com/qqwweee/keras-yolo3">keras-yolo3</a>, 
 which is a python binding of <a href="https://pjreddie.com/darknet/yolo/">YOLO: Real-Time Object Detection</a>,
 and built a runtime-environment keras-yolo3 under SOL4Py-2 folder.<br><br>
-See a sample program <a href="./samples/keras-yolo3/YoloObjectDetector.html">YoloObjectDetector</a> to detect objects in an image.<br><br>
-See a sample program <a href="./samples/keras-yolo3/CustomYoloObjectDetector.html">CustomYoloObjectDetector.</a> 
-See also an another program <a href="./samples/keras-yolo3/DetectedObjectHTMLFileGenerator.html">DetectedObjectHTMLFileGenerator for keras-yolo3.</a> 
+See a sample program <a href="http://www.antillia.com/sol4py/samples/keras-yolo3/YoloObjectDetector.html">YoloObjectDetector</a> to detect objects in an image.<br><br>
+See a sample program <a href="http://www.antillia.com/sol4py/samples/keras-yolo3/CustomYoloObjectDetector.html">CustomYoloObjectDetector.</a> 
+See also an another program <a href="http://www.antillia.com/sol4py/samples/keras-yolo3/DetectedObjectHTMLFileGenerator.html">DetectedObjectHTMLFileGenerator for keras-yolo3.</a> 
 
 </font>
 <br>
@@ -76,8 +76,8 @@ See also an another program <a href="./samples/keras-yolo3/DetectedObjectHTMLFil
 We have downloaded <a href="https://github.com/SnowMasaya/ssd_keras">ssd_keras</a>, 
 which is an SSD300v2 keras implementation of <a href="https://github.com/weiliu89/caffe/tree/ssd">SSD: Single Shot MultiBox Detector</a>,
 and built a runtime-environment <i>ssd_keras</i> under SOL4Py-2 folder.<br><br>
-See a sample program <a href="./samples/ssd_keras/SSDDetector.html">SSDDetector</a> to detect objects in an image.<br><br>
-See also an another program <a href="./samples/ssd_keras/SSDDetectedObjectHTMLFileGenerator.html">SSDDetectedObjectHTMLFileGenerator for SSD300.</a> 
+See a sample program <a href="http://www.antillia.com/sol4py/samples/ssd_keras/SSDDetector.html">SSDDetector</a> to detect objects in an image.<br><br>
+See also an another program <a href="http://www.antillia.com/sol4py/samples/ssd_keras/SSDDetectedObjectHTMLFileGenerator.html">SSDDetectedObjectHTMLFileGenerator for SSD300.</a> 
 <br><br>
 <br>
 <b>YOLOv3 vs SSD:<br></b>
