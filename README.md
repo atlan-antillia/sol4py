@@ -121,7 +121,7 @@ We have implemented some wrapper classes to MySQL(ZMySQLDB, ZThreadedMySQLConnec
 <hr>
 <br>
 <a name="2.1.1"><a href="http://www.antillia.com/sol4py/samples/uisamples/ApplicationView.html">2.1.1 How to use ZApplicationView?<br><br>
-<img src="http://www.antillia.com/sol4py/samples/uisamples/ApplicationView.png" width="680" height="auto"   >
+<img src="http://www.antillia.com/sol4py/samples/uisamples/ApplicationView.png"  >
 </a>
 </a>
 <br>
@@ -130,7 +130,7 @@ We have implemented some wrapper classes to MySQL(ZMySQLDB, ZThreadedMySQLConnec
 
 <a name="2.1.2">
 <a href="http://www.antillia.com/sol4py/samples/uisamples/ImageView.html">2.1.2 How to use ZImageView?<br><br>
-<img src="http://www.antillia.com/sol4py/samples/uisamples/ImageView.png" width="680" height="auto"  >
+<img src="http://www.antillia.com/sol4py/samples/uisamples/ImageView.png" >
 </a>
 </a>
 <br>
@@ -139,7 +139,7 @@ We have implemented some wrapper classes to MySQL(ZMySQLDB, ZThreadedMySQLConnec
 
 <a name="2.1.3">
 <a href="http://www.antillia.com/sol4py/samples/uisamples/LabeledComboBox.html">2.1.3 How to use ZLabeledComboBox?<br><br>
-<img src="http://www.antillia.com/sol4py/samples/uisamples/LabeledComboBox.png" width="680" height="auto"   >
+<img src="http://www.antillia.com/sol4py/samples/uisamples/LabeledComboBox.png">
 </a>
 </a>
 <br>
@@ -148,7 +148,7 @@ We have implemented some wrapper classes to MySQL(ZMySQLDB, ZThreadedMySQLConnec
 
 <a name="2.1.4">
 <a href="http://www.antillia.com/sol4py/samples/uisamples/LabeledSlider.html">2.1.4 How to use ZLabeledSlider?<br><br>
-<img src="http://www.antillia.com/sol4py/samples/uisamples/LabeledSlider.png" width="680" height="auto"   >
+<img src="http://www.antillia.com/sol4py/samples/uisamples/LabeledSlider.png" >
 </a>
 </a>
 <br>
@@ -157,7 +157,7 @@ We have implemented some wrapper classes to MySQL(ZMySQLDB, ZThreadedMySQLConnec
 
 <a name="2.1.5">
 <a href="http://www.antillia.com/sol4py/samples/uisamples/ScrolledImageView.html">2.1.5 How to use ZScrolledImageView?</a><br><br>
-<img src="http://www.antillia.com/sol4py/samples/uisamples/ScrolledImageView.png" width="680" height="auto"   >
+<img src="http://www.antillia.com/sol4py/samples/uisamples/ScrolledImageView.png">
 </a>
 </a>
 <br>
@@ -165,7 +165,7 @@ We have implemented some wrapper classes to MySQL(ZMySQLDB, ZThreadedMySQLConnec
 <br>
 <a name="2.1.6">
 <a href="http://www.antillia.com/sol4py/samples/uisamples/ColorPositioner.html">2.1.6 How to use ZColorPositioner?</a><br><br>
-<img src="http://www.antillia.com/sol4py/samples/uisamples/ColorPositioner.png" width="680" height="auto"   >
+<img src="http://www.antillia.com/sol4py/samples/uisamples/ColorPositioner.png" >
 </a>
 </a>
 <br>
@@ -174,7 +174,7 @@ We have implemented some wrapper classes to MySQL(ZMySQLDB, ZThreadedMySQLConnec
 <br>
 <a name="2.1.7">
 <a href="http://www.antillia.com/sol4py/samples/uisamples/FolderBrowser.html">2.1.7 How to use FolderBrowser?</a><br><br>
-<img src="http://www.antillia.com/sol4py/samples/uisamples/FolderBrowser.png" width="680" height="auto"   >
+<img src="http://www.antillia.com/sol4py/samples/uisamples/FolderBrowser.png" >
 </a>
 </a>
 <br>
@@ -184,7 +184,7 @@ We have implemented some wrapper classes to MySQL(ZMySQLDB, ZThreadedMySQLConnec
 
 <a name="2.1.8">
 <a href="http://www.antillia.com/sol4py/samples/uisamples/TabbedWindow.html">2.1.8 How to use TabbedWindow?</a><br><br>
-<img src="http://www.antillia.com/sol4py/samples/uisamples/TabbedWindow.png" width="680" height="auto"   >
+<img src="http://www.antillia.com/sol4py/samples/uisamples/TabbedWindow.png" >
 </a>
 </a>
 <br>
@@ -202,7 +202,7 @@ We have implemented some wrapper classes to MySQL(ZMySQLDB, ZThreadedMySQLConnec
 
 <a name="2.2.2">
 <a href="http://www.antillia.com/sol4py/samples/opencv/BoxFilter.html">2.2.2 How to use cv2.boxFilter?<br><br>
-<img src="http://www.antillia.com/sol4py/samples/opencv/BoxFilter.png" width="680" height="auto"   >
+<img src="http://www.antillia.com/sol4py/samples/opencv/BoxFilter.png" width="680" height="auto"  >
 </a>
 </a>
 <br>
@@ -285,7 +285,7 @@ In OpenCV-4.2.0 the bug has been fixed, and this runs well.<br><br>
 <br>
 <a name="2.2.12">
 <a href="http://www.antillia.com/sol4py/samples/opencv/VideoFilePlayer.html">2.2.12 How to use cv2.VideoCapture to display video files?<br><br>
-<img src="http://www.antillia.com/sol4py/samples/opencv/VideoFilePlayer.png" width="680" height="auto"  >
+<img src="http://www.antillia.com/sol4py/samples/opencv/VideoFilePlayer.png"  >
 </a>
 </a>
 <br>
@@ -426,7 +426,7 @@ In OpenCV-4.2.0 the bug has been fixed, and this runs well.<br><br>
 <br>
 <a name="2.7.1">
 <a href="http://www.antillia.com/sol4py/samples/opengl/ColoredPyramid.html">2.7.1 How to render a colored pyramid in OpenGL?<br><br>
-<img src="http://www.antillia.com/sol4py/samples/opengl/ColoredPyramid.png" width="680" height="auto"  >
+<img src="http://www.antillia.com/sol4py/samples/opengl/ColoredPyramid.png"  >
 </a>
 </a>
 <br>
@@ -434,7 +434,7 @@ In OpenCV-4.2.0 the bug has been fixed, and this runs well.<br><br>
 <br>
 <a name="2.7.2">
 <a href="http://www.antillia.com/sol4py/samples/opengl/CubeRotationByTimerThread.html">2.7.2 How to rotate a cube by timer thread in OpenGL?<br><br>
-<img src="http://www.antillia.com/sol4py/samples/opengl/CubeRotationByTimerThread.png" width="680" height="auto"   >
+<img src="http://www.antillia.com/sol4py/samples/opengl/CubeRotationByTimerThread.png"   >
 </a>
 </a>
 <br>
@@ -442,7 +442,7 @@ In OpenCV-4.2.0 the bug has been fixed, and this runs well.<br><br>
 <br>
 <a name="2.7.3">
 <a href="http://www.antillia.com/sol4py/samples/opengl/MaterializedTorusesRotationByKeyInput.html">2.7.3 How to rotate multiple materialized toruses in OpenGL?<br><br>
-<img src="http://www.antillia.com/sol4py/samples/opengl/MaterializedTorusesRotationByKeyInput.png" width="680" height="auto"   >
+<img src="http://www.antillia.com/sol4py/samples/opengl/MaterializedTorusesRotationByKeyInput.png"   >
 </a>
 </a>
 <br>
@@ -450,7 +450,7 @@ In OpenCV-4.2.0 the bug has been fixed, and this runs well.<br><br>
 <br>
 <a name="2.7.4">
 <a href="http://www.antillia.com/sol4py/samples/opengl/MultiJPGTexturedCubeRotationByKeyInput.html">2.7.4 How to rotate a multiple jpg textured cubes in OpenGL?<br><br>
-<img src="http://www.antillia.com/sol4py/samples/opengl/MultiJPGTexturedCubeRotationByKeyInput.png" width="680" height="auto"   >
+<img src="http://www.antillia.com/sol4py/samples/opengl/MultiJPGTexturedCubeRotationByKeyInput.png"   >
 </a>
 </a>
 <br>
@@ -458,7 +458,7 @@ In OpenCV-4.2.0 the bug has been fixed, and this runs well.<br><br>
 <br>
 <a name="2.7.5">
 <a href="http://www.antillia.com/sol4py/samples/opengl/Texture.html">2.7.5 How to map a texture in OpenGL?<br><br>
-<img src="http://www.antillia.com/sol4py/samples/opengl/Texture.png" width="680" height="auto"   >
+<img src="http://www.antillia.com/sol4py/samples/opengl/Texture.png"  >
 </a>
 </a>
 <br>
@@ -466,7 +466,7 @@ In OpenCV-4.2.0 the bug has been fixed, and this runs well.<br><br>
 <br>
 <a name="2.7.6">
 <a href="http://www.antillia.com/sol4py/samples/opengl/TexturedSphereRotationByKeyInput.html">2.7.6 How to rotate a textured sphere in OpenGL?<br><br>
-<img src="http://www.antillia.com/sol4py/samples/opengl/TexturedSphereRotationByKeyInput.png" width="680" height="auto"   >
+<img src="http://www.antillia.com/sol4py/samples/opengl/TexturedSphereRotationByKeyInput.png"  >
 </a>
 </a>
 <br>
@@ -482,7 +482,7 @@ In OpenCV-4.2.0 the bug has been fixed, and this runs well.<br><br>
 <br>
 <a name="2.7.8">
 <a href="http://www.antillia.com/sol4py/samples/opengl/BufferedColoredRegularIcosahedron.html">2.7.8 How to render a buffered colored regular icosahedron in OpenGL?<br><br>
-<img src="http://www.antillia.com/sol4py/samples/opengl/BufferedColoredRegularIcosahedron.png" width="680" height="auto" >
+<img src="http://www.antillia.com/sol4py/samples/opengl/BufferedColoredRegularIcosahedron.png" >
 </a>
 </a>
 <br>
@@ -490,7 +490,7 @@ In OpenCV-4.2.0 the bug has been fixed, and this runs well.<br><br>
 <br>
 <a name="2.7.9">
 <a href="http://www.antillia.com/sol4py/samples/openglcv/NonPhotorealisticImagesTexturedCube.html">2.7.9 How to render a cube textured by OpenCV-NonPhotorealistic images in OpenGL?<br><br>
-<img src="http://www.antillia.com/sol4py/samples/openglcv/NonPhotorealisticImagesTexturedCube.png" width="680" height="auto" >
+<img src="http://www.antillia.com/sol4py/samples/openglcv/NonPhotorealisticImagesTexturedCube.png"  >
 </a>
 </a>
 <br>
