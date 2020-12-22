@@ -1,21 +1,16 @@
-#/******************************************************************************
-# 
-#  Copyright (c) 2019 Antillia.com TOSHIYUKI ARAI. ALL RIGHTS RESERVED.
+# Copyright 2020-2021 antillia.com Toshiyuki Arai
 #
-#    This program is free software: you can redistribute it and/or modify
-#    it under the terms of the GNU General Public License as published by
-#    the Free Software Foundation, either version 3 of the License, or
-#    (at your option) any later version.
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
 #
-#    This program is distributed in the hope that it will be useful,
-#    but WITHOUT ANY WARRANTY; without even the implied warranty of
-#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#    GNU General Public License for more details.
+#    http://www.apache.org/licenses/LICENSE-2.0
 #
-#    You should have received a copy of the GNU General Public License
-#    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#
-#******************************************************************************/
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
 
 # 2019/05/10
 
@@ -59,6 +54,7 @@ class MainView(ZApplicationView):
 
     def clear(self):
       print("clear")
+
       self.x = []
       self.y_loss     = []
       self.y_val_loss = []
@@ -86,8 +82,8 @@ class MainView(ZApplicationView):
  
 
       if "," in text:
-        epoch, loss, acc, val_loss, val_acc = text.split(",")
-        print("{} {} {} {}".format(loss, acc, val_loss, val_acc))
+        epoch, loss, val_loss = text.split(",")
+        print("{}  {} {} ".format(epoch, loss, val_loss))
 
         self.x.append(int(epoch))
         self.y_loss.append(float(loss))
@@ -215,7 +211,7 @@ if main(__name__):
 
     applet = QApplication(sys.argv)
 
-    mainv = MainView(name, 40, 40, 600, 400, epochs= epochs, loss= loss, ipaddress="127.0.0.1", port= 8888)
+    mainv = MainView(name, 40, 80, 600, 400, epochs= epochs, loss= loss, ipaddress="127.0.0.1", port= 8888)
     mainv.show()
 
     applet.exec_()
